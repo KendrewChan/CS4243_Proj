@@ -1,0 +1,9 @@
+# note: change to threat/carry depending on which one u want to use
+train: /content/drive/MyDrive/CS4243_Mini_Project/train_data_threat/images/train
+val: /content/drive/MyDrive/CS4243_Mini_Project/train_data_threat/images/val
+
+# Classes
+names:
+  0: threat
+  1: pistol
+  2: knife

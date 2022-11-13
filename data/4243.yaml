@@ -1,6 +1,6 @@
 # note: change to threat/carry depending on which one u want to use
-train: /content/drive/MyDrive/CS4243_Mini_Project/train_data_threat/images/train
-val: /content/drive/MyDrive/CS4243_Mini_Project/train_data_threat/images/val
+train: /content/drive/MyDrive/CS4243_Mini_Project/YoloV5/images/train
+val: /content/drive/MyDrive/CS4243_Mini_Project/YoloV5/images/val
 
 # Classes
 names:
@@ -10,4 +10,3 @@ names:
   3: rifle-carry
   4: pistol-carry
   5: knife-carry
-  
